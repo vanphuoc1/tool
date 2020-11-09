@@ -1,0 +1,48 @@
+.header{
+    width: 100%;
+    height: 10%;
+    position: relative;
+    background-color: red;
+}
+#logout{   
+    position: absolute;
+    top:18px;
+    left:700px;
+}
+#p1{
+    position: absolute;
+    left :100px;
+    top:10px;
+}
+#p2{
+    position: absolute;
+    top:40px;
+    left :100px;
+}
+.middle{
+    width: 100%;
+    height: 80%;
+}
+.left{
+    width: 30%;
+    height: 100%;
+    background-color: blue;
+    float:left;
+}
+.mid{
+    width: 40%;
+    height: 100%;
+    /* background-color: ư; */
+    float:left;
+}
+.right{
+    width: 30%;
+    height: 100%;
+    background-color: purple;
+    float:left;
+}
+.bottom{
+    background-color: black;
+    width: 100%;
+    height: 10%;
+}
